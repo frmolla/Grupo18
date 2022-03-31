@@ -9,6 +9,8 @@ namespace Grupo18
             Console.WriteLine("Hello World!");
             Console.WriteLine("Conflicto Tipo1");
             Console.WriteLine("Modificar archivos diferentes-Estuadiante A");
+            addColor color = new addColor();
+            color.colorFondo();
         }
     }
 }
